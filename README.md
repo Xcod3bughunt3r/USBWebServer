@@ -1,8 +1,6 @@
 # What is USBWebserver?
 
-```
-USBWebserver is a combination of popular webserver software: Apache, MySQL, PHP and phpMyAdmin. With USBWebserver it is possible to develop and show your PHP websites everywhere and anytime. The main advantage of USBWebserver is that you can use it from USB or a regular CD.
-```
+## USBWebserver is a combination of popular webserver software: Apache, MySQL, PHP and phpMyAdmin. With USBWebserver it is possible to develop and show your PHP websites everywhere and anytime. The main advantage of USBWebserver is that you can use it from USB or a regular CD.
 
 ## USBWebserver is perfect for:
 
